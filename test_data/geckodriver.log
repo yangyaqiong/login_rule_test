@@ -1,0 +1,67 @@
+1517314690856	geckodriver	INFO	geckodriver 0.19.1
+1517314690865	geckodriver	INFO	Listening on 127.0.0.1:64324
+1517314692796	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\uce\\AppData\\Local\\Temp\\rust_mozprofile.XTMNSRWoEWXS"
+1517314693982	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\uce\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 20756, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1517314696874	Marionette	INFO	Listening on port 64332
+1517314697062	Marionette	WARN	TLS certificate errors will be ignored for this session
+1517314697125	Marionette	DEBUG	Register listener.js for window 4294967297
+1517314697152	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1517314697284	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1517314697284	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1517314697538	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://mall.uce.cn/"
+1517314697804	Marionette	DEBUG	Received DOM event "pageshow" for "http://mall.uce.cn/"
+1517314698031	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1517314698225	Marionette	DEBUG	Received DOM event "beforeunload" for "http://mall.uce.cn/"
+1517314698390	Marionette	DEBUG	Received DOM event "pagehide" for "http://mall.uce.cn/"
+1517314698391	Marionette	DEBUG	Received DOM event "unload" for "http://mall.uce.cn/"
+1517314698565	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://mall.uce.cn/"
+1517314698649	Marionette	DEBUG	Received DOM event "pageshow" for "http://mall.uce.cn/"
+1517314701739	Marionette	DEBUG	Received DOM event "beforeunload" for "http://mall.uce.cn/"
+1517314701875	Marionette	DEBUG	Received DOM event "pagehide" for "http://mall.uce.cn/"
+1517314701876	Marionette	DEBUG	Received DOM event "unload" for "http://mall.uce.cn/"
+1517314702024	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://mall.uce.cn/"
+1517314702100	Marionette	DEBUG	Received DOM event "pageshow" for "http://mall.uce.cn/"
+1517314702348	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1517314702641	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1517314716183	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1517314716426	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1517314716724	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1517314730282	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1517314730496	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1517314730763	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1517314744264	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1517314744490	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1517314744749	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1517314758246	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1517314758489	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1517314758792	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1517314761863	Marionette	DEBUG	Received DOM event "beforeunload" for "http://mall.uce.cn/"
+1517314762035	Marionette	DEBUG	Received DOM event "pagehide" for "http://mall.uce.cn/"
+1517314762036	Marionette	DEBUG	Received DOM event "unload" for "http://mall.uce.cn/"
+1517314762210	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://mall.uce.cn/"
+1517314762292	Marionette	DEBUG	Received DOM event "pageshow" for "http://mall.uce.cn/"
+1517314762521	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1517314762875	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1517314776447	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1517314776681	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1517314777003	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1517314790430	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Parent 20756, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 20756, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\uce\AppData\Local\openvr\openvrpaths.vrpath
+[Child 23080, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 23080, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\uce\AppData\Local\openvr\openvrpaths.vrpath
+[Child 14072, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14072, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\uce\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 17788, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ine 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
